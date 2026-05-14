@@ -1,0 +1,15 @@
+{
+  "name": "Raul — Colombian Accounting & Tax",
+  "description": "Retention computation, invoice processing, regime classification. Named after abuelo Raul.",
+  "version": "0.1.0",
+  "author": "buritica",
+  "license": "Apache-2.0",
+  "skills": [
+    {
+      "name": "retencion",
+      "description": "Compute retenciones en la fuente from extracted invoice data — ReteRenta, ReteIVA, ReteICA with regime awareness",
+      "command": "/raul:retencion",
+      "path": "skills/retencion/SKILL.md"
+    }
+  ]
+}

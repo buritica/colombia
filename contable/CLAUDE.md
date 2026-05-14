@@ -29,7 +29,7 @@ Configure for your use case. The defaults assume a Colombian SAS buyer operating
 
 ## References
 
-All reference files are in `references/`. They are structured markdown optimized for agent consumption.
+Reference files live inside the skill directory (`skills/retencion/references/`) so they're self-contained when cached by the SDK plugin system.
 
 | File | Content | Update frequency |
 |------|---------|-----------------|

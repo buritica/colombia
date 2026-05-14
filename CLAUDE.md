@@ -10,4 +10,4 @@ Colombian business operations skills. Each subdirectory is a domain-specific plu
 - Update UVT and rate constants each January when DIAN publishes new values
 
 ## Domains
-- `raul/` — accounting & tax (retenciones, facturación, PUC, DIAN calendar)
+- `contable/` — accounting & tax (retenciones, facturación, PUC, DIAN calendar)

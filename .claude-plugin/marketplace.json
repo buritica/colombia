@@ -1,11 +1,11 @@
 {
   "plugins": [
     {
-      "id": "raul",
-      "name": "Raul — Colombian Accounting & Tax",
+      "id": "contable",
+      "name": "Contable — Colombian Accounting & Tax",
       "type": "plugin",
       "description": "Retention computation, invoice processing, regime classification, UVT thresholds. Colombian tax reference tables and decision matrices for autonomous accounting workflows.",
-      "path": "./raul"
+      "path": "./contable"
     }
   ]
 }

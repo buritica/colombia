@@ -1,6 +1,6 @@
-# Raul — Colombian Accounting & Tax
+# Contable — Colombian Accounting & Tax
 
-Named after abuelo Raul, who was an accountant.
+Business accounting and tax compliance for Colombian companies.
 
 ## Context
 
@@ -25,7 +25,7 @@ Configure for your use case. The defaults assume a Colombian SAS buyer operating
 
 | Skill | Command | What it does |
 |-------|---------|-------------|
-| retencion | `/raul:retencion` | Compute retenciones from extracted invoice data |
+| retencion | `/contable:retencion` | Compute retenciones from extracted invoice data |
 
 ## References
 

@@ -8,7 +8,7 @@ Install as a Claude Code plugin or use individual skills standalone.
 
 | Skill | Domain | Description |
 |-------|--------|-------------|
-| **raul** | Accounting & Tax | Retention computation, invoice processing, regime classification. Named after abuelo Raul. |
+| **contable** | Accounting & Tax | Retention computation, invoice processing, regime classification for Colombian businesses. |
 
 ## Install
 
@@ -17,7 +17,7 @@ Install as a Claude Code plugin or use individual skills standalone.
 claude plugin add buritica/colombia
 
 # Or reference a specific skill directory
-claude skill add buritica/colombia/raul
+claude skill add buritica/colombia/contable
 ```
 
 ## Structure
@@ -26,7 +26,7 @@ Each domain is a standalone plugin with its own skills, references, and configur
 
 ```
 colombia/
-├── raul/                  # accounting & tax
+├── contable/              # accounting & tax
 │   ├── skills/
 │   │   └── retencion/     # retention computation
 │   └── references/        # rate tables, matrices, estatuto extracts

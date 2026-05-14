@@ -1,7 +1,7 @@
 {
   "name": "contable",
   "description": "Colombian Accounting & Tax — retention computation, invoice processing, regime classification for Colombian businesses.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "buritica"
   },

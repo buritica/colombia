@@ -1,11 +1,13 @@
 {
+  "name": "buritica-colombia",
+  "owner": {
+    "name": "buritica"
+  },
   "plugins": [
     {
-      "id": "contable",
-      "name": "Contable — Colombian Accounting & Tax",
-      "type": "plugin",
+      "name": "contable",
       "description": "Retention computation, invoice processing, regime classification, UVT thresholds. Colombian tax reference tables and decision matrices for autonomous accounting workflows.",
-      "path": "./contable"
+      "source": "./contable"
     }
   ]
 }
